@@ -1,0 +1,332 @@
+
+Hello, everyone. This is Kiran. Today, we have with us, and today's mock intro will be on Python. So Python is booming these days. Many people are doing Python course, and many opportunities we have, for job in Python.
+
+She's one of the example of workplace. She is MSC physics. BSC physics. Right? Yes, sir.
+
+So, Puri, welcome, and let's start the interview. But, really, when I saw your resume and your non IT, I would say not non IT, but it's pure non IT. Pure non IT. Yeah. It's nowhere related.
+
+So it's a BSC physics MSC. So but great. So who told you to do the this Python? Who told you to say how you got encouraged, first of all? This is the basic question every audience will need because you are no related.
+
+Now Yes. MSC physics person can do Python means. MSC math person also can do. Right? So who told you to do that?
+
+So Or how you got inspired? Initially, my plan was to enter in the research field. It is still my plan. It's just secondary. But, after surveying the market, I got to know that research field is not, as much high paying until you have cracked a few milestones in your career.
+
+And to do that, I still have around three to four years' time. So till then, to support myself financially, I decided to have a backup plan. And as we know, currently, IT industry and even in that Python is very much related to physics. So then I chose Python language as my So you mean to say IT has money? And IT has various types, Java, Python, Mono, many thing.
+
+And out of that, you selected Python. Python. Yeah. Great. So let's start some questions.
+
+Yes. So how much you rate, you're already working right now. Right? Three week before you joined some organization. That's great.
+
+So my question is, like, how much you rate yourself in core Python out of one to 10? 10 is highest one is least. I'll go for eight, sir. We'll go for eight? Yes.
+
+In a sense? Just a second. You go for eight. Good. Django?
+
+Django, a nine. Out of ten nine? Yes. Good. Good confidence to have it.
+
+Okay. So let's start with the core Python. Python is platform independent or not? Yes, sir. It is.
+
+It is. Yes. Okay. Why Python, we are saying, as an interpreted language? So because in Python, the code is run line by line.
+
+So if we have error in some line, the, compiling and all the running is done after the line until we encounter the error. Unlike in compiled languages, the whole code is first compiled, converted. We have to, get rid of the errors, and then it is done. So for Python, the execution is line by line, and, hence, it is, called as an interpreted language. Okay.
+
+Great. Next is, like, what is PIP? PIP is Python it's like an installer package for Python. Because Python has a very vast community, we cannot download all Python's functionalities in one loop. So if we need to download some other external packages, libraries, or frameworks, we make use of PIP for that.
+
+Mhmm. Did you use that? Yes, sir. Or what do you have used? I have used it to, install Django MySQL client, which is used for database connection, basically.
+
+Which package you have installed for database connection? MySQL client. Okay. Okay. Through peep?
+
+Peep. Yes. So you need to fire that command and automatically it will come. Right? Yeah.
+
+So where from it is coming? Like, Python installed. So It installs from the website. It's On web. Yeah.
+
+So in web, you mean to say a lot of things are there? Lot of libraries? There are a lot of libraries associated with Any other library you know than MySQL? I know Django framework. Mhmm.
+
+Then there's Flask framework. Mhmm. MySQL is there. Then we have other course headers, which is used for API connections. That also we have to download externally.
+
+I guess that's also. Scrapping, you know, web snapping? I'm not aware of that, sir. Right? Great.
+
+Not a problem. So there's many things you can download from the web and install. Right? Great. Do you know, like, you know, collection?
+
+Yes, sir. Yeah. What do you know in that? Generalized terms. Collection is, it's like a collection of a group of elements.
+
+And in Python, we have a few collective data types, which are list, tuple, set, dictionary. So these are basically multiple data points that have been collected and stored together. Tuple, you cannot change. Right? No.
+
+Tuple is immutable. Why do you use it? Sir, if I Say something is there and Yeah. You need to change it. Right?
+
+Yes. But, then why why tuple? Can you give me some examples so that tuple will be used? The thing is for, list, the memory takes us more, and so the speed of execution is less. So if we have the kind of data that does not have to be changed, but you need a high performance with it and higher speed with it, then we can make use of tuple because tuple, of course, very good memory management as compared to other collected data types.
+
+So for memory management, you should be going with the tuple. Yeah. And if you want to change it, then go for? List. We can.
+
+Can you convert tuple to list? Yes, sir. And list to tuple? Yeah. By type custom, we can.
+
+By type custom? Can we pass that list object into tuple constructor? Yeah. We can. We can?
+
+Yes, sir. Great. Okay. So you know partners? Not as much.
+
+You heard about it? Yeah. I know that it is used for, sorting data when we have big data collections. It is used to clean the data for, stat statistical uses. So I can say cleaning the data is a use of pandas or showing some metrics forms is a use of pandas?
+
+I'm not aware of it as well. So you have not used, but you heard about it. I have. Did you ever practice any single program on it? I'm not gonna ask, so don't worry about it.
+
+But did you ever tried any program on pandas? No. I haven't worked on pandas. Yeah. So what I would suggest you because, anyway, you're working.
+
+You've already got placement. You're working in some broad nation. It's really good. But, nevertheless, what I would say, always do some programs on NumPy, Panda, because that is the future. Yeah.
+
+It's not about you should be expert in that, but, do some programs. I know it's not needed for you, for your profile maybe. Your profile what's your profile in your company? It's web development. Python developer.
+
+So Django you might be using? Yeah. API development to be specific. So I'm API development you're using. So which framework you're using?
+
+Django. Django is framework. Yeah. Why to create APIs? So, APIs are used for communication between two applications.
+
+Why to communicate? If I have a front end and I have a database system on the back end. Can I just close this? Yeah. Yeah.
+
+Word. A database system on the back end. So, API is used to fetch the data from the back end and pass it on to the front end. But while doing so, it uses the concepts like serialization, and it also keeps data private so that the front end does not have all the access to the back ends. This is just what I am doing in the company.
+
+But in general also, communicating between two applications, it provides, serialization of data, which is a better way of passing the data between two applications and also provides privacy to both of them. So you want to say API should be developed or REST API should be developed to communicate between two systems. Right? Yes. This is one system.
+
+This is one system. To communicate between systems, go for REST API. Yes. This system is developed in dot net, and this system is developed in Python. Yeah.
+
+Will they be able to communicate? I'm not aware of it. Yes. Basically, use of API REST API is communicating with with two application, as you said, is correct. But most of the cases, what happens, now let's say weather application is there.
+
+We don't know in which language it has been developed. Right? Yeah. So it might be dot net. It might be PHP.
+
+I am a Python developer. So what I'm gonna do is I'm gonna call that API of that weather application. And I will not mind whether there is developing which language because I am aware about JSON. Yes. I am aware about consuming an API.
+
+That whether person has exposed API, produced APIs. So I would be a consumer, and that person will be producer. So you got the concept? Yes. But that's great that you'll learn more many things as you go on Yeah.
+
+Doing things in your company. You're happy with the automation? Yes, sir. I am. Great.
+
+I'm still learning. I think they gave you today leave or maybe break for this mock interviews. Right? So I heard that. Okay.
+
+So REST API. Right? Yes. This is REST's protocol. Yeah.
+
+Correct? Do you know any other protocol is available for creating an API? No. I'm not available. So Okay.
+
+Yeah. So But, these days, everybody is using REST API. Okay? So More popular. It's more popular.
+
+You know JSON? Yeah. What is it? It's just a way of, storing information, which is which has a very good resemblance to dictionaries in Python. It's keyword and value pairings.
+
+So just I remember, like, dictionary as you're saying. Can you have list in dictionary? If we provide it with the key, we can have a dictionary. Can we duplicate values in dictionary? Yes.
+
+We can. Not keys. Right? No. Keys cannot be duplicate.
+
+Can we add two dictionaries? Add two dictionaries. Will they concatenate like each? I think we should be able to. If we put the plus operator, they might concatenate.
+
+But I'm I haven't tried it yet, but I think they will. Those who are listening this mock interview, can you write and comment whether two dictionaries can be concatenated? She already told us about the list. Right? And that was correct.
+
+So I'm with you on that. But on the list, let people decide. So I was talking about the dictionary. Yes. So as people are deciding, we'll move ahead for the next question.
+
+How do you train dictionary? We have three methods for it, dot keys, which iterates the keys. Dot keys or keys? Keys. Because it's a method, so I put a dot.
+
+So keys, which iterates the keys, values, which will iterate the values, and the items which will iterate tuples of keys and values. Tuples of? Keys and values. Why you're saying tuples of key and values? Because it is comma separated key and value, which is enclosed in a tuple, singularly first, second, third.
+
+That is comma separated and enclosed in a list. What's the role of SQL in Python? SQL is used for interacting with the database. So Okay. As I'm doing APIs, I have to interact with the database for which I use SQL.
+
+Are you interacting with database? Why can't you consume APIs directly? We have information stored in the database. So if we want to fetch that information specifically Through API? Yeah.
+
+So you're writing APIs or consuming APIs? I'm writing APIs. I'm not consuming. Oh, great. So you are at the producer side?
+
+Yeah. Not consumer side? Right. So that time, obviously, you are interacting with the Database. Database.
+
+Which database you are using? MySQL. Why MySQL? Why not Oracle? I'm not aware of the Great.
+
+No problem. That company decides. Yeah. But always remember, if you have huge data, you'll go with the Oracle. Okay?
+
+Yeah. Which domain you're working into? Python. No. Not Python.
+
+Company domain like trading, banking. Oh, it is raw material manufacturing. Okay. Great. Not a problem.
+
+So you are calling SQL queries? Yeah. That's ORM tool you are using or what? Object Relational Map. Explain me ORM is what?
+
+Like? ORM stands for object relational mapping. So with SQL, we can interact with the database. We can manipulate data. Similarly, in Python, we have ORM, which is a tool with which we, interact with the data.
+
+We can, extract data from it, add, update, delete. We can perform all these functions. Okay. So what do you think in industry, database has been created first or models will be created first? Logically, I think database should be created first.
+
+Because that has been developed by developers or database administrators? Database administrators. Perfect. Then that is for, again, audience. Like, how to generate model file from the database.
+
+Those who are listening and doing Python, Django, I would ask them, like, how to generate model file from database. So so I would suggest, like, that command should be there. Yeah. Right? Or manually, you can do.
+
+Manually also, we can do. So which command? Now you tell me. It's PYManageDotPYInspectDB. And, once we run that command, if we have a ready made database, the models will be created in our, Django framework.
+
+So it is Why might be it is recommended in organizations don't modify the model? Means, once it is generated by that command, don't go and touch it. So because the database and the information in it is specific to the company, we cannot tamper with that information. We have to just do the work of displaying it. So it's like modifying the company's information.
+
+So we are not allowed to do that. Okay. I have one more suggestion in that because white is not allowed it's not about tempering. It's about that, but not much, of it. But it maintains the standard.
+
+Okay. So you are working on REST API. So I have one more question. Like, is there any role of HTML CSS in your project? Right now, I'm working on React.
+
+So You're working on React. So React development, you started already or not? Not yet. I am in the learning phase. So my question is while creating REST API, you need to use HTML CSS.
+
+Yes or no? No. Perfect. That was my question. Because that's just the back end.
+
+Yeah. It's not a front end. When you want to expose the data on the front end, then you will be using React. Correct? Yeah.
+
+Yes. That's great. So my next question will be, what is this Jinja template? Jinja template is a way of, writing the information in HTML pages. So, HTML pages are not dynamic.
+
+It's it's not like JavaScript. You cannot, write logic on it. But with the use of Jinja template, which is, again, a functionality provided by Django, with the help of that, we can program logic on the HTML page itself. If you don't use this then? We cannot do any.
+
+With Jinja template, we have things like if else. We have for loops. But purely HTML does not give us if else or for loops. So you mean to say in the template file Yeah. If you want to use, this code, what you call, core Python Python code Yes.
+
+Along with HTML, then you need Jinja? Yeah. We do. Is there anything other than Jinja available? I'm not aware of this.
+
+You're not aware of it. But, anyway, you are working on, rest, but still I have asked. What is MBT? MBT, it is the architecture on which Django works. So MBT stands for model, use, and templates.
+
+In models, we have the structuring of our database. Mhmm. In views, we write the business logic of, fetching or adding or deleting data. And in templates, we write the HTML code. Okay.
+
+So did you ever done any practice in Django? Yes, sir. I have. So can you show me any project which you have right now in your laptop? I have a project on my laptop.
+
+I think I Yeah. So please share your screen. Just I want to see whether, you practiced much or not. See, guys, those who are seeing this interview, I can say people will face any kind of questions. Okay?
+
+There is no limit for it. Just I want to see and I want to ask some questions to you on that. So those who are seeing this interview, one more thing you should remember, sometimes it may happen that interim may ask you to show your screen, show your projects, which you have developed because you want to ask some questions on that. Okay? So be ready for that.
+
+Let's see how could we use our please share. Okay. You don't have permission? Yeah. You have.
+
+Yeah. I have. Okay. So this is your project, the student management system you have done? Yes, sir.
+
+Okay. So can I see that in Visual Studio? Just a minute. We have to first activate the environment. Okay.
+
+Then I'm changing the directory to my project folder. You shared complete screen? No. I think I just shared one. Shared one before.
+
+I was just doing that. Okay. So what you did here, you opened a command prompt and then you are changing a screen. Right? Yeah.
+
+I have it. Go ahead. Mhmm. I'll now open the b s code. Mhmm.
+
+Great. It will take a minute. Okay. Till that, why you use Versus Code? Any other competitors you know for Versus Code?
+
+I would not say competitor, but any other tools available in market. We have PyCharm also. Yeah. PyCharm. But, I I prefer v s four more.
+
+Mhmm. Can you maximize the screen? Yeah. Just a minute. I'm not sure how to move this map map part of the.
+
+Great. Okay. So I'm not asking you to run. Don't worry about that. And I did Yeah.
+
+But, again, running because you did this coding and you're working also so, I have confidence that you'll be running that program. But I have some question. What is this post? Post is a method that is That is line number 18 I'm asking. Post is a method?
+
+Post over here. Yeah. So the post over here, it helps us to, send the data to our database. So when we are adding data to our database, we use post. And here in line number 18, student ID is being added back to the database.
+
+Okay. What is the render function? Render helps us to showcase this HTML page onto our, browser. So this is my HTML page in which I have written my form for, getting information from the user. Mhmm.
+
+That page will be rendered onto my browser, my first page, and it will going it is going to fetch this information of student ID, name, city. And with the help of this post, it will put that information to the database. Okay. Great. So this registration is, function, which is posting data to the database.
+
+Right? Yes. Next, what is record function is doing? A record, sir. Print this slide.
+
+No. No. It's not a it's my user defined function. Mhmm. So this function is going to, here I have fetched all the objects from the database.
+
+And with the help of this context function, I'm sending this to my HTML page for displaying. What is this objects all? Objects dot all? It is because this is basically ORM syntax. In ORM, when we are interacting with the database, that is done, in the form of objects.
+
+So for ORM, when we fetch information from database, one single record is going to be as a single dictionary, which is an object in Python. And so we have to use objects. And after that, I'm using all because I want all the data from my database. If I had one is there anything, in the all function? Yes.
+
+There is a get function. So with the help of that, we can fetch specific information about the specific student. So, like, for updating, when we click on a form, we click on the update button, we get already some information about the student, which we then update. So if you want that one specific information, we will make use of get. Okay.
+
+Instead of post, any other word you can write? Line number 18. Okay. Sure. Mhmm.
+
+Or it is compulsory that we need to write post post? It is compulsory to write post when we are adding for new information. It is mandatory. But in case we are updating, we can also use batch and put methods. You mean to say if I write there put, data will not get inserted?
+
+It will. What if you guys don't those who are listening this video, instead of post, if I write p u t, will it post or not? It will put, but that will not be a good practice to do that, sir. It's just a practice you are saying. Yeah.
+
+But you can do that? I think it will put If you write g t gate then? No. It will not put data then. It will get data from the database.
+
+Yes, sir. But yeah. But how automatically it will get identified if you write gate means what I'm saying instead of post, if you write gate. You got my question? Yes, sir.
+
+P o s t, that is radical of what? If you write gate, you are saying data will not get posted. Right? No. How?
+
+Miss who's doing all these things? This get post put patch delete. But you are saying input, it will not update, but it will insert. Right? It will insert.
+
+Yeah. But why not in case of gate? Because get is used for getting data from the database. It is used for fetching data, and it is not used for putting data over there. Really?
+
+Yes, sir. So if you read gate, you mean to say it is not getting inserted. Right? No. It will not get inserted.
+
+Yeah. What do you guys think? Please write down. Okay. So just moving ahead, can you show me the HTML page?
+
+Registration.HTML? Where is the Jinja code? This first line is Jinja template. This Why you wrote extends? This file, master dot HTML, it has all my CSS.
+
+So when we have common properties that we want to apply to all our pages, we, put it in a single file. And I have used extends to this is kind of importing the file onto this page. So it will apply all the CSS that I have done in master's file to my registration.HTML. Who taught you Python? WebOps.
+
+WebOps. WebOps. Great. He taught, you in a good manner or you read in a good manner? No, sir.
+
+He taught me in a really good manner. But what I think, that is his duty and he is performing very well. But it's duty of candidates also to respond to what teacher is teaching. And you I think you greatly done that. You did best job.
+
+Okay. So you practiced and all that stuff. And then before placement, you need to give interviews. Right? Yeah.
+
+So, yes, this is a two way, but your role is more important than Wigosa role. Okay. But, anyway, now coming to what is that static folder? Static folder. This is used to store CSS, images, JavaScript, and video files.
+
+So we store it in this, and then whenever we need these files on our HTML page, we will import it from here. Okay. If you and, can we change that path of static folder? No, sir. We cannot do that.
+
+And it has to also be named static compulsorily because that is the way this architecture works. If we do not follow the naming convention, it will not identify the folder. Okay. Do we need to mention the static folder part in the setting dot p y? No.
+
+We don't have to mention it, explicitly on our sites. It must be done there already. Okay. Just a second. Can you give me access of your screen?
+
+Yes, sir. So how am I supposed to do that? I haven't done just a second. You and I don't know that. But let me check.
+
+Should I stop share? No. I'm sorry. Mhmm. Mhmm.
+
+You and I don't know that. That's okay. Next question is, what is this migrations folder? In migrations folder, here, we have the layout of our table. So over here, this is, like, the layout of our table.
+
+What happens in Django is we have to collect to the database for which we write our columns in models dot t y. And when we run the make migrations command, it will make a table for us. That table is this what we see and the basic information about our columns, which is, integer field, character field, its data types. What is that? Where is it?
+
+Okay. I'm not aware of it, sir. Don't you think it's it might be related to cache or something? It is. But I'm I'm Oh, you're not aware?
+
+What is that init dot p y? Init dot p y, it is because this is a package, and each package has init dot p y. So that's why we see. Then only we can say the package is valid. Okay.
+
+Okay. So Django, can you open settings dot p y? Yeah. What's the use of URLs dot p y? In URLs.py, we write the URLs that through which we access our HTML or front end pages.
+
+Okay. So you have created Django project, let's say. Yes. There are further some steps to do that, and you created a Python project. What are the folder structure or what are the things you get freely?
+
+I'm not understanding. Let's say you created a Django project. Okay. How to create that project? For that, we have to first set up an environment.
+
+So we do that. We install EMP with the help of p PIP, the PIP tool, and we set up the environment. This is done because we have to download additional, functionalities in it, and it's not wise to have that on our system. So setting dot p y file, you create by writing setting dot p y or it create get created automatically? It is created automatically.
+
+So like that, what are the things you get automatically? That is one of my question. There's URLs dot p y Mhmm. In which we write URLs. Settings dot p y Mhmm.
+
+Which has the back end connections. There is models dot p y, views dot p y, templates dot p y. There's also I think these are the main ones that we work in, but there are additional thing, like, even admin dot p y. Yeah. Great.
+
+Okay. So that's all about, the Django. Let me go ahead with something else. So I don't think we need system now because a lot of lot of things I have asked you already. Just a second.
+
+Yeah. So you can close the laptop. I have some few questions for you. Yeah. Can we merge multiple list in Python?
+
+Yes, sir. We can? Yeah. How? There is this, function by name of extends.
+
+It's a method. It's not function. And by that, we can merge two different lists in fact. Do you know jeep method? Yeah.
+
+By zip method, we can, merge multiple iteratives. The same index number elements are mapped together. Mhmm. Mhmm. Okay.
+
+Let's say if I ask you use the lambda function to print even numbers between one to hundred. How you'll do that? One to hundred, even numbers you want. Okay. More of entry we'll be using.
+
+By the lambda function, can you just think of anything you want? We can use filter function with it, sir. Perfect. So for filter function, we will provide the lambda function. Mhmm.
+
+We can provide a sequence. And in lambda function, we will give the expression, with mode, and that will give us a list of even numbers. Okay. So I have very few questions like why tuple is faster than list? Sir, because in list, if you see if you get two different lists with the same exact elements, it is going to take the lists are going to take different memory positions and also the individual elements.
+
+Even though they are same, they're also going to occupy different memory positions. But in tuple, the original tuple is going to take different locations, but the elements inside it, if they are same, it doesn't occupy different, memory. And so it takes less memory for execution. What is the decorator in Python? Decorators are used for, adding additional functionalities to our existing functions.
+
+So it will take a function as an input, add some functionality to it, and return the function back. Why do that? So if we have some function on which we cannot modify, it is already in build or maybe, the function is, for some reason, not allowed for us to modify, then we can use decorators for it. Okay. Did you ever tried that?
+
+Yeah. Right now, I'm working on the APIs and so So there you are using that? Yeah. Actually, one function can behave differently with different decorators, you mean to say? Yeah.
+
+It can. It can. Function base function is same. Let's say there is a addition method, addition function. You can do that for averaging or something.
+
+Right? We can make use of decorators to change its behavior. Great. Great. Great.
+
+So I think your twenty twenty two pass out. Yes. Right. Great. So I have asked a lot of questions, and I'm very happy.
+
+And just to coming lastly, coming to your feedback is really good. I'm not remembering how many questions you didn't answer. Do you remember? Haven't been keeping a track of that, sir. You're not keeping track because it's very difficult to know how many questions you didn't answer because you answered everything, most of the things.
+
+So that would be the answer. Right? Okay. So what designation you have there? Python developer, you're saying?
+
+Yes. Python dev full stack Python developer. Yeah. So I wouldn't say, like, you are just a fresher because two weeks, two, three weeks only then after you're joining. P Joke College, that is for twelfth.
+
+Yes, sir. Okay. So this is the end of your interview. My feedback would be explore more and more, explore NumPy, Pandas, that all things are needed. NumPy don't think, like, it is only needed for data scientist, or Pandas is need for only data scientist.
+
+It can be used in your daily operations also while creating in Django while creating in REST APIs. Okay? SQL knowledge. Now what is primary key and foreign key? Primary key is used for, setting unique identifiers, like unique data for our database.
+
+And foreign key is used when we are trying to connect two different tables together. Why to connect? It can sometimes happen, sir, that two different databases cannot be merged into one. Like, in the company that I'm working, it's not allowed for us to tamper with the data. In that case, we can use foreign key, and we can merge them together.
+
+To merge two tables, you to use foreign key, that means you'd or I can say, if you want to display on a single page multiple data, multiple, data of multiple tables, then you'll be going for For foreign keys. What specialty of, primary key? It is unique, and it is not null. It cannot So you can identify each row. Right?
+
+Yes. Yeah. Great. So questions are endless. If I keep asking, it will be a whole day, and I know you have good knowledge.
+
+So for those who are seeing this interview, it's a good thing to learn she's just a fresher. Even I would say she's not working. She's working but just now joined, so I would say she's not working. She's just a fresher graduate person. She's answering flawlessly, so I expect you all to do study in that manner so that you'll be answering each and every questions.
+
+See, see, guys, questions are never tough. If you study, do hard work, they'll be always easy. Right? Yes. It's not tough if you do study.
+
+Do practice. That's it. So thank you everyone, those who are seeing this video, and thank you, Purvi, and thank you Yeah. For coming, taking time out for giving interview. Many people have already shown interest.
+
+So we have started taking Python interviews also. Those who are related to Python, please, fill in the form which is given below in the description so that we'll be inviting you for the interview. Those who want to give those who are good prepared and want to test themselves or want to come to our platform of YouTube where we have likes to get the subscribers. So if you want to expose yourself, if you want to make yourself visible in front of everyone, please come to us and have the interview so that we'll give you feedback also. Thank you.
+
+Thank you. Thank you for your time. Thank you. Bye bye.
